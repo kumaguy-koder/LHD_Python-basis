@@ -1,2 +1,4 @@
 # isp01
-情報科学プロジェクト演習：ホログラムデザイン
+Lecture for hologram design
+***
+How to use Python
