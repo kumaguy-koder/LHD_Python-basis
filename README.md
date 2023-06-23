@@ -1,4 +1,3 @@
-# isp01
-Lecture for hologram design
+# Lecture for hologram design 1
 ***
 How to use Python
