@@ -1,3 +1,3 @@
-# Lecture for hologram design 1
+# Lecture for hologram design
 ***
 How to use Python
