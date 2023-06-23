@@ -4,7 +4,7 @@ from PIL import Image
 
 if __name__ == '__main__':
     # 出力
-    # print("Hologram design")
+    print("Hologram design")
 
     # ------------------------------------------------------------
     # Numpyを使ってみる その1　リストから配列
@@ -72,22 +72,22 @@ if __name__ == '__main__':
 
     # ------------------------------------------------------------
     # Matplotを使ってみる その2 sin/cos
-    x = np.arange(-2*np.pi, 2*np.pi, np.pi/50)
-
-    s = np.sin(x)
-    c = np.cos(x)
-
-    plt.title("sin / cos")
-    plt.xlabel("rad")
-    plt.ylabel("value")
-    plt.grid("true")
-
-    #plt.plot(x, s, label="sin")
-    plt.plot(x, c, label="cos")
-    plt.legend()
-    
-    plt.savefig("./graph.eps")
-    plt.show()
+    # x = np.arange(-2*np.pi, 2*np.pi, np.pi/50)
+    #
+    # s = np.sin(x)
+    # c = np.cos(x)
+    #
+    # plt.title("sin / cos")
+    # plt.xlabel("rad")
+    # plt.ylabel("value")
+    # plt.grid("true")
+    #
+    # #plt.plot(x, s, label="sin")
+    # plt.plot(x, c, label="cos")
+    # plt.legend()
+    #
+    # plt.savefig("./graph.eps")
+    # plt.show()
 
     # ------------------------------------------------------------
     # Pillowを使ってみる　その１　入力
